@@ -29,7 +29,7 @@ _I do also Graphic Design!_
     </a> 
         <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a>
-        <a href="https://www.swift.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original-wordmark.svg" alt="Swift" width="40" height="40"/>
+        <a href="https://www.swift.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
     </a>
         <a href="https://affinity.serif.com/de/photo/" target="_blank"> <img src="https://cdn.serif.com/affinity/img/global/logos/affinity-photo-2-020520191502.svg" alt="Affinity Photo" width="40" height="40"/>
     </a>
