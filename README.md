@@ -11,6 +11,7 @@
 </p>
 
 <h4> A passionate & learning software developer and designer from Leipzig, Germany! </h4>
+
 _I do also Graphic Design!_
 
 - 🌱 I’m currently learning JavaScript, Python
