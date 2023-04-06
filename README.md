@@ -10,12 +10,12 @@
   </a>
 </p>
 
-A passionate & learning software developer and designer from Leipzig, Germany!
+<h4> A passionate & learning software developer and designer from Leipzig, Germany! </h4>
 I do also Graphic Design!
 
-🌱 I’m currently learning JavaScript, Python
-💬 Ask me about UX/UI design, JavaScript, TypeScript, CSS, HTML
-👨‍💻 I play in .html, .ts, .js, .jsx, .css, .scss, .svg every day
+- 🌱 I’m currently learning JavaScript, Python
+- 💬 Ask me about UX/UI design, JavaScript, TypeScript, CSS, HTML
+- 👨‍💻 I play in .html, .ts, .js, .jsx, .css, .scss, .svg every day
 
 <h4 align="left">These are a few languages and tools I use often:</h4>
 <p align="left"> 
