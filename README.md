@@ -41,3 +41,5 @@ _I do also Graphic Design!_
     </a>
         <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>
 </p>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=gregor-zbjk&color=blue)
