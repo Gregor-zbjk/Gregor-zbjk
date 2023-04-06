@@ -1,1 +1,2 @@
-# Gregor-zbjk <img src="https://github.com/Gregor-zbjk/Gregor-zbjk/blob/main/wave.gif" width="30px">
+# Gregor-zbjk <img src="https://raw.githubusercontent.com/Gregor-zbjk/Gregor-zbjk/main/wave.gif" width="30px">
+
