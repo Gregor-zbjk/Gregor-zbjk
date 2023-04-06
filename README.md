@@ -16,7 +16,7 @@ _I do also Graphic Design!_
 
 - 🌱 I’m currently learning JavaScript, Python
 - 💬 Ask me about UX/UI design, JavaScript, TypeScript, CSS, HTML
-- 👨‍💻 I play in .html, .ts, .js, .jsx, .css, .scss, .svg every day
+- 👨🏻‍💻 I play in .html, .ts, .js, .jsx, .css, .scss, .svg every day
 
 <h4 align="left">These are a few languages and tools I use often:</h4>
 <p align="left"> 
