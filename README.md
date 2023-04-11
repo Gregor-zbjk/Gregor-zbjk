@@ -1,12 +1,12 @@
 # Gregor-zbjk <img src="https://raw.githubusercontent.com/Gregor-zbjk/Gregor-zbjk/main/wave.gif" width="30px">
 
 <p>
-  <a href="" rel="nofollow">
+  <a href="https://linkedin.com/in/gregor-zobjak-4436321a9" rel="nofollow">
     <img align="center" src="" alt="linkedin" height="30px" style="max-width:100%;">
   </a> 
   &nbsp;
-   <a href="" rel="nofollow">
-    <img align="center" src="" alt="blog" height="30px" style="max-width:100%;">
+   <a href="https://gregor-zbjk.github.io/index.html" rel="nofollow">
+    <img align="center" src="" alt="portfolio" height="30px" style="max-width:100%;">
   </a>
 </p>
 
