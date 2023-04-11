@@ -1,4 +1,4 @@
-# Gregor-zbjk <img src="https://raw.githubusercontent.com/Gregor-zbjk/Gregor-zbjk/main/wave.gif" width="30px">
+# Hey I'm Gregor-zbjk <img src="https://raw.githubusercontent.com/Gregor-zbjk/Gregor-zbjk/main/wave.gif" width="30px">
 
 <p>
   <a href="https://linkedin.com/in/gregor-zobjak-4436321a9" rel="nofollow">
